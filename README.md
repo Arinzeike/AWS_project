@@ -20,7 +20,7 @@ The primary objectives of this project are:
 ## Project Structure
 The project is organized as follows:
 
-- `infra/`: Contains all infrastructure code (CloudFormation or Terraform templates).
+- `infra/`: Contains all infrastructure code (CloudFormation ).
 
 - `app/`: Includes the application code and resources (e.g., web servers, databases).
 
