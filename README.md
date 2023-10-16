@@ -5,13 +5,13 @@ This repository contains all the resources and documentation for my AWS project.
 
 ## Project Goals
 The primary objectives of this project are:
-1. **Infrastructure as Code (IaC):** Utilize AWS CloudFormation or Terraform to define and manage infrastructure resources.
+1. **Infrastructure as Code (IaC):** Utilize AWS CloudFormation to define and manage infrastructure resources.
 
 2. **Scalability:** Design and implement scalable solutions using AWS services like EC2 Auto Scaling, Elastic Load Balancing, and Lambda.
 
 3. **High Availability:** Ensure high availability by deploying resources across multiple AWS Availability Zones.
 
-4. **Security:** Implement best practices for securing AWS resources, including Identity and Access Management (IAM) and VPC configurations.
+4. **Security:** Implement best practices for securing AWS resources, including Identity and Access Management (IAM).
 
 5. **Cost Optimization:** Monitor and optimize costs using AWS Cost Explorer and Budgets.
 
