@@ -1,4 +1,4 @@
-# AWS Project Readme
+# AWS Project 
 
 ## Project Overview
 This repository contains all the resources and documentation for my AWS project. The project involves implementing various AWS services to achieve a specific goal.
