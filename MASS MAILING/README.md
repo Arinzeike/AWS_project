@@ -46,7 +46,7 @@ You'll be prompted to choose an authoring method. Select one of the following:
 * "Author from scratch" if you want to create a custom function.
 * "Use a blueprint" if you want to start with a predefined blueprint or template.
 * "Browse serverless app repository" if you want to use a pre-built serverless application.
-![Alt text](images/lambda-role-creating.png)
+![Alt text](images/lambda-function-creating.png)
 4. **Configure Basic Information:**
 
 * Provide a name for your Lambda function.
@@ -61,7 +61,7 @@ You'll be prompted to choose an authoring method. Select one of the following:
 
 * After configuring the basic settings and any advanced settings, click the "Create function" button.
 
-![Alt text](images/lambda-role-created.png)
+![Alt text](images/lambda-function-created.png)
 
 Your AWS Lambda function is now created and ready for further configuration.
 
