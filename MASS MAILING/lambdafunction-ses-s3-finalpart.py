@@ -27,7 +27,7 @@ def get_file_extension(object_key):
 
 def lambda_handler(event, context):
     # Define recipient email addresses
-    recipient_emails = ["aikeojukwu@gmail.com", "ikeojukwua@gmail.com"]
+    recipient_emails = ["email_1", "email_2"]
 
     # Define the name of the S3 bucket
     bucket_name = "ogafridayy"
